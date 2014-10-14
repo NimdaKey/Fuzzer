@@ -1,4 +1,4 @@
-/* 
+/* this program can execute and deal with the signals appropriately when child process crash !
 ** Refer to notSPIKEfile
 */
 #include <stdio.h>
